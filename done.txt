@@ -1,0 +1,1 @@
+Added pipeline to push to docker hub
